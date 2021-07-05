@@ -1,0 +1,78 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(Images/Destiny_2.jpg);
+  font-family: monospace;
+}
+
+
+
+nav{
+  height: 80px;
+  width: 100%;
+}
+
+label.add-menu {
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+
+.top_nav_links{
+  float: right;
+  margin-right: 20px;
+}
+
+#Main_Search {
+  padding-top: 13px;
+  
+}
+
+.main_title {
+  margin-left: 570px;
+  margin-right: auto;
+  margin-top: 17%;
+  margin-bottom: 18%;
+  width: 50%;
+}
+
+.BottomNav{
+  align-content: right;
+
+}
+
+.bottom_nav_links{
+  margin-left: 170px;
+}
+
+.bottom_nav_links li a{
+  margin: 10px;
+}
+
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  padding: 7px 13px;
+  font-size: 35px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
